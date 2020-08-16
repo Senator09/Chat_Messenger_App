@@ -8,7 +8,13 @@ import java.util.List;
 
 /**
  *
- * [Add your documentation here]
+ * [Chat Messenger is a simple application that enables clients(users)
+to connect and exchange text-massages through a server. I have
+also added a chat filter feature—any text that goes through the
+server, gets screened. Similarly, bad words like IU (Indiana
+University) gets filtered. This project significantly expanded my
+understanding of network I/O, threads and complex data
+structures (Java).]
  *
  * @author your name and section
  * @version date
